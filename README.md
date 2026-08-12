@@ -24,7 +24,7 @@ Passionate about building responsive web applications, designing intuitive user 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,git,github,figma,vscode,linux,bootstrap" />
