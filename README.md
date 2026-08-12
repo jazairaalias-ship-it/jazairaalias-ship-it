@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Jazaira Alias
+# Jazaira Alias
 
 ### 💻 BS Information Technology Student | 🎨 UI/UX Designer | 🌐 Frontend & Backend Developer
 
