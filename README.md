@@ -57,10 +57,10 @@ Passionate about building responsive web applications, designing intuitive user 
 |  **LutoLoco** | Recipe application that helps users discover, organize, and explore various recipes with an intuitive interface. | HTML, CSS, JavaScript |
 |  **Happy Net Café** | Web-Based Internet and Esports Management System for customer sessions, reservations, billing, and café operations. | HTML, CSS, JavaScript, PHP, MySQL |
 |  **Brgy. Calumpang Health Monitoring System** | Community-based health monitoring and record management system for barangay healthcare services. | HTML, CSS, JavaScript, PHP, MySQL |
-|  **BayanLedger (Capstone Project)** | A Municipal Planning and Development Office (MPDO) management system designed to streamline planning, project monitoring, and document management. 
 | **Beauty Hub** | E-commerce website with product browsing, shopping cart, and user management features. | Flask, Python, MySQL |
 |  **Men's Apparel Mobile App** | Mobile shopping application focused on men's fashion with a user-friendly interface. | Flutter / Mobile Development |
-| **Enterprise Infrastructure Planning** | IT infrastructure planning portfolio project for System Administration, including hardware, software, network inventories, and topology design. | Draw.io, Markdown, GitHub |
+| **BayanLedger (Capstone Project)** | Blockchain-enabled Municipal Planning and Development Office (MPDO) management system for project planning, document management, and transparent transaction tracking. | React, Vite, TypeScript, Tailwind CSS, Node.js, Express.js, Supabase (PostgreSQL), Solidity, Hardhat, ethers.js, MetaMask |
+
 
 
 ---
