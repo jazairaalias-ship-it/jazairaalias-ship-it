@@ -8,7 +8,7 @@
 Passionate about building responsive web applications, designing intuitive user interfaces, and continuously learning new technologies in software development, networking, and system administration.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer;Backend+Developer;UI%2FUX+Designer;BSIT+Student+at+LSPU;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Frontend+Developer;Backend+Developer;UI%2FUX+Designer;BSIT+Student+at+LSPU;Always+Learning+" />
 
 </div>
 
@@ -31,13 +31,6 @@ Passionate about building responsive web applications, designing intuitive user 
 </p>
 
 ---
-
-##  GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
